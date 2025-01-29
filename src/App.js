@@ -1,10 +1,10 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Sample app running through Openshift</h1>
+      <h1>Sample app running through Vercel</h1>
     </div>
   );
 }
